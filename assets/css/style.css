@@ -7,7 +7,7 @@ box-sizing: border-box;
 }
 body {
 font-family: Arial;
-background-color: #3498DB;
+/*background-color: #FFFFFF;*/
 padding: 50px;
 }
 .login {
@@ -19,10 +19,14 @@ background-color: #FFF;
 padding: 20px;
 border-radius: 5px
 }
+.g-signin2 {
+width: 50%;
+margin: 0 auto;
+}
 
 .app-title {
 text-align: center;
-color: #3498DB;
+color: #FFFFFF;
 }
 
 .login-form {
